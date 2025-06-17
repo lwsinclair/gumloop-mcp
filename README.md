@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tiovikram-gumloop-mcp-badge.png)](https://mseep.ai/app/tiovikram-gumloop-mcp)
+
 # Gumloop MCP Server
 
 MCP Server for Gumloop's API, enabling AI models to manage and execute automations through a standardized interface.
